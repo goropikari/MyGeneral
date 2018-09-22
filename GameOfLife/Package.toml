@@ -1,0 +1,3 @@
+name = "GameOfLife"
+uuid = "b53c8852-a93e-11e8-3341-5bdef8841476"
+repo = "https://github.com/goropikari/GameOfLife.jl.git"
