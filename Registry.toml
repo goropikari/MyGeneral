@@ -2,4 +2,5 @@ name = "MyGeneral"
 uuid = "0d136408-be1b-11e8-146b-1b5bc37d4128"
 repo = "https://github.com/goropikari/MyGeneral.git"
 
+[packages]
 b53c8852-a93e-11e8-3341-5bdef8841476 = { name = "GameOfLife", path = "./GameOfLife" }
