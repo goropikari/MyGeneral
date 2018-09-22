@@ -4,3 +4,4 @@ repo = "https://github.com/goropikari/MyGeneral.git"
 
 [packages]
 b53c8852-a93e-11e8-3341-5bdef8841476 = { name = "GameOfLife", path = "./GameOfLife" }
+f41f8282-a16f-11e8-2120-1f4619698387 = { name = "MyPackage", path = "./MyPackage" }
